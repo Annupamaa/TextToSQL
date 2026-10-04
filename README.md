@@ -212,5 +212,3 @@ To reset the demo database completely:
 docker compose down -v
 docker compose up -d
 ```
-
-# TextToSQL
